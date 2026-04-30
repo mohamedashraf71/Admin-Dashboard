@@ -12,6 +12,15 @@ A modern, professional admin dashboard built with React, Tailwind CSS, and Recha
 
 > **Simply click the link above and the dashboard will open instantly!**
 
+## ⚙️ Enable GitHub Pages
+
+If the link shows 404, enable GitHub Pages:
+1. Go to: https://github.com/mohamedashraf71/Admin-Dashboard/settings/pages
+2. Under "Build and deployment":
+   - Source: Select **GitHub Actions**
+3. Save settings
+4. The deployed link will appear after workflow runs
+
 ## ⚡ Quick Access
 
 **Direct Links:**
