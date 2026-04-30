@@ -8,9 +8,16 @@ A modern, professional admin dashboard built with React, Tailwind CSS, and Recha
 
 ## 🌐 Live Demo
 
-🚀 **Live Demo**: [Admin Dashboard](https://mohamedashraf71.github.io/Admin-Dashboard)
+🚀 **[Click Here for Live Demo](https://mohamedashraf71.github.io/Admin-Dashboard)**
 
-> **Note**: Click the link above to see the live demo running instantly!
+> **Simply click the link above and the dashboard will open instantly!**
+
+## ⚡ Quick Access
+
+**Direct Links:**
+- Dashboard: `https://mohamedashraf71.github.io/Admin-Dashboard`
+- Login as Admin: `admin@example.com` / `admin123`
+- Login as User: `john@example.com` / `user123`
 
 ## ✨ Features
 
