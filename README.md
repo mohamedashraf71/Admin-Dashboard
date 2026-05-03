@@ -6,8 +6,6 @@ A professional React Admin Dashboard with Tailwind CSS and Recharts.
 
 **URL:** https://mohamedashraf71.github.io/Admin-Dashboard/
 
-*(If 404, see GitHub Pages Setup below)*
-
 ## 🔑 Login Credentials
 
 - **Admin:** admin@example.com / admin123
@@ -27,15 +25,6 @@ A professional React Admin Dashboard with Tailwind CSS and Recharts.
 - Recharts
 - Vite
 - Lucide React Icons
-
-## 🔧 GitHub Pages Setup
-
-If you get 404, enable GitHub Pages:
-
-1. Go to: https://github.com/mohamedashraf71/Admin-Dashboard/settings/pages
-2. Under **"Build and deployment"** > **"Source"**
-3. Select: **"GitHub Actions"**
-4. The workflow will deploy automatically on next push!
 
 ## 🏃‍♂️ Local Development
 
